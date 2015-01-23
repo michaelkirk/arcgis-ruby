@@ -10,7 +10,7 @@ If you want to query the FeatureService and MapService endpoitns, then check out
 
 Just install using Rubygems:
 
-`gem install geoservices`
+`gem install arcgis`
 
 ## Instructions
 
